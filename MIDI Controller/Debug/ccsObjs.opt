@@ -1,0 +1,1 @@
+"./adc.o" "./midi.o" "./midi_controller.o" "./usb.o" -T"../msp430fr5969.ld" -Wl,--start-group -lgcc -lc -Wl,--end-group 
